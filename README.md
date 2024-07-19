@@ -1,4 +1,4 @@
-# Projeto-Final_PLN
+# Lyrics-Generator
 Projeto final da disciplina de Processamento de Linguagem Natural
 - O projeto consiste no finetuning do modelo de linguagem natural GPT-2;
 - O finetuning tem como objetivo acrescentar informações na rede neural sobre as letras das músicas da banda Linkin Park;
